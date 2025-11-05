@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Amirhossein Agrest  
 
-<!--
-**AmirhosseinAgrest/AmirhosseinAgrest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full‑stack & AI Developer**  
+Designing scalable applications, intelligent systems, and modern infrastructures.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- **Frontend:** React, TypeScript, Next.js, Vite, TailwindCSS  
+- **Backend:** Node.js, Express, REST APIs, GraphQL  
+- **Databases:** PostgreSQL, MongoDB, Redis  
+- **AI / ML:** Python, TensorFlow, PyTorch, NLP, Computer Vision  
+- **DevOps & Tools:** Docker, Git, CI/CD, Linux, Nginx  
+- **Other Interests:** Blockchain, Distributed Systems  
+
+---
+
+## 📌 About Me
+- Passionate about building maintainable and extensible systems  
+- Experienced in both web development and AI-driven solutions  
+- Strong focus on clean architecture, scalability, and performance  
+
+---
+
+## 📫 Contact
+- **Email:** amyrhsynkshkwly524@gmail.com  
+- **Telegram:** [@amirhosseinagrest](https://t.me/amirhosseinagrest)  
+
+---
+
+## 📊 GitHub Stats
+![Agrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirhosseinAgrest&show_icons=true&theme=dark)
