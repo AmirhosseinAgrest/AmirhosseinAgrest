@@ -23,9 +23,10 @@ Designing scalable applications, intelligent systems, and modern infrastructures
 ---
 
 ## 📫 Contact
-- **Email:** amirhosseinagrest@gmail.com  
-- **Telegram:** [@amirhosseinagrest](https://t.me/amirhosseinagrest)  
+- **Email:** amirhosseinagrest@gmail.com   
 - **website:** https://agrest.netlify.app
+- **Telegram:** [@amirhosseinagrest](https://t.me/amirhosseinagrest)
+- **Instagram:** [@amirhossein_agrest](https://instagram/amirhossein_agrest)
 
 ---
 
